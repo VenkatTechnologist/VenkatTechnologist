@@ -6,7 +6,8 @@ I am currently learning collobrating on Github, specifically with Github Actions
 streamline many of the errorprone, repetitive tasks, leading to faster and accurate results (provided
 they are implemented correctly and thoroughly - which is a human oversight responsibility).
 
-I'm looking for opportunities to collaborate on Github Actions, Python, Prolog, and generative AI projects.
+I'm looking for opportunities to collaborate on Github Actions, Software Security, Software Performance,
+Python, Prolog, and generative AI projects.
 
 You can reach me by sending a message here at Github, or email me at venkat.technologist@gmail.com. It
 would be great to hear from you.
