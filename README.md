@@ -9,8 +9,8 @@ they are implemented correctly and thoroughly - which is a human oversight respo
 I'm looking for opportunities to collaborate on Github Actions, Software Security, Software Performance,
 Python, Prolog, and generative AI projects.
 
-You can reach me by sending a message here at Github, or email me at venkat.technologist@gmail.com. It
-would be great to hear from you.
+You can reach me by sending a message at LinkedIn (https://linkedin.com/in/venkatramakrishnan),
+or email me at venkat.technologist@gmail.com.
 
 ✨ Fun Fact ✨ Did you know that I am an author? You can find my short stories collection in Amazon
 here: https://www.amazon.com/dp/B0CGKQ1Q2M/
