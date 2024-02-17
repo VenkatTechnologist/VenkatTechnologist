@@ -1,6 +1,5 @@
 Hi, I am Venkat Ramakrishnan. I am a Software Technologist and a consulting Chief Quality Officer.
-I am interested in creating value for organisations by enhancing the quality of the software products
-that they produce.
+I help organisations enhance the quality of the software products that they produce.
 
 I am currently learning collobrating on Github, specifically with Github Actions, as automation can
 streamline many of the errorprone, repetitive tasks, leading to faster and accurate results (provided
